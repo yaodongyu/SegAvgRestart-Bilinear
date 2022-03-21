@@ -1,4 +1,4 @@
-# Accelerating Stochastic Extragradient for Bilinear Games using Restarted Iteration Averaging
+# On the Convergence of Stochastic Extragradient for Bilinear Games using Restarted Iteration Averaging
 
 This is the code for the [AISTATS-2022 paper](https://arxiv.org/pdf/2107.00464.pdf) "On the Convergence of Stochastic Extragradient for Bilinear Games using Restarted Iteration Averaging".
 
